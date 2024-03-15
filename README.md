@@ -9,6 +9,11 @@ In the project directory, you can run:
 ##  `npm install`
 Inside the project directory, run the command to install the required npm packages
 
+To install the required Node.js dependencies, including a specific version of `@material-ui/core`, run the following command in your project directory:
+
+```bash
+npm install @material-ui/core@4.12.4
+
 ### `npm start`
 
 Runs the app in the development mode.\
