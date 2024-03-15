@@ -11,8 +11,7 @@ Inside the project directory, run the command to install the required npm packag
 
 To install the required Node.js dependencies, including a specific version of `@material-ui/core`, run the following command in your project directory:
 
-  ```bash
-  npm install @material-ui/core@4.12.4
+# npm install @material-ui/core@4.12.4
 
 ### `npm start`
 
